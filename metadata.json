@@ -1,0 +1,7 @@
+{
+  "name": "VocalFlow",
+  "description": "An interactive singing practice app. Upload MusicXML or generate melodies with AI, then sing to advance through the notes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
